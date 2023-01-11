@@ -10,7 +10,7 @@
 - 💬 Ask me about **将棋 ))**
 
 - 📫 How to reach me **dm.lyrae@gmail.com**
-- [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmlyrae)
+- [![Telegram Badge](https://img.shields.io/badge/-dmlyrae-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmlyrae)
 
 
 
