@@ -4,12 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmlyrae&label=Profile%20views&color=0e75b6&style=flat" alt="dmlyrae" /> </p>
 
 - 📝 I regularly write articles on [go-hiking.ru/dmlyrae](go-hiking.ru/dmlyrae)
-
+- 
+- ⚡ And i just keep trying **to be better.**
+- 
 - 💬 Ask me about **将棋 ))**
 
 - 📫 How to reach me **dm.lyrae@gmail.com**
+- [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmlyrae)
 
-- ⚡ And i just keep trying **to be better.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
